@@ -1,4 +1,4 @@
-# front-end-technology-stack （总结前端技术栈）
+# front-end-technology-stack （前端技术栈）
 
 # `CSS`
 
