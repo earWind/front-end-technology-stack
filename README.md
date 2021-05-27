@@ -14,23 +14,23 @@
 
 ## 打包构建 
 
-[webpack](https://webpack.docschina.org/)
+1. [webpack](https://webpack.docschina.org/)
 
-[rollup](https://www.rollupjs.com/)
+2. [rollup](https://www.rollupjs.com/)
 
-[vite](https://cn.vitejs.dev/)
+3. [vite](https://cn.vitejs.dev/)
 
 ## 前端异常监控 
 
-[sentry](https://docs.sentry.io/)
+1. [sentry](https://docs.sentry.io/)
 
 ## 服务端渲染
 
-[Vue SSR](https://ssr.vuejs.org/zh/)
+1. [Vue SSR](https://ssr.vuejs.org/zh/)
 
 ## 微前端
 
-[qiankun](https://qiankun.umijs.org/zh/guide)
+1. [qiankun](https://qiankun.umijs.org/zh/guide)
 
 # 浏览器
 
