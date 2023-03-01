@@ -6,6 +6,12 @@
 
 # JavaScript
 
+# Typescript
+
+# Node
+  
+  nest
+
 # Vue
 
 # React
